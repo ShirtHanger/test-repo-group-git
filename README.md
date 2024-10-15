@@ -1,6 +1,6 @@
 # We Need a Hero!
 
-Personal HTML project by Jordan Johnson-Carter
+Personal HTML project by Redacted
 
 <img src="./example-pulls/spider-man-marvel.png" width="50%" height="50%">
 

@@ -1,12 +1,12 @@
-const africanCultures = ['null']
+const africanCultures = ['Zulu', "Jamacian", 'Xhosa', 'Nigerian']
 
-const europeanCultures = ['null']
+const europeanCultures = ['German', 'French', 'British']
 
-const eastAsianCultures = ['null']
+const eastAsianCultures = ['Japanese', 'Chinese', 'Korean', 'Mongolian']
 
-const middleEasternCultures = ['null']
+const middleEasternCultures = ['Palestinian', 'Iranian', 'Syrian', 'Afghan']
 
-const southAsianCultures = ['null']
+const southAsianCultures = ['Indian', 'Pakistani', 'Bhutanese', 'Nepali']
 
 function CulturalRollCall(cultureArray) {
     for (culture of cultureArray) {
